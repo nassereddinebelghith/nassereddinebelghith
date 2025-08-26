@@ -21,7 +21,6 @@ Cloud & DevOps Engineer based in France. I design, secure, and deploy **multi-cl
 [![Terraform](https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?logo=terraform&logoColor=white)](https://www.credly.com/badges/c3c9ffc3-e9e0-4397-8ebb-013f71812df0/public_url)
 [![Databricks](https://img.shields.io/badge/Databricks-Certified-FF3621?logo=databricks&logoColor=white)](https://credentials.databricks.com/3cc6692a-7db8-49e8-9d84-c392f4263340#acc.uSDmfPGv)
 ![SAFe](https://img.shields.io/badge/Scaled_Agile-SAFe_Practitioner-2D9CDB)
-![Other](https://img.shields.io/badge/Software_Reform-Associate_003-555)
 
 ## Skills
 - **Cloud**: Google Cloud Platform (GCP), AWS, Microsoft Azure  
